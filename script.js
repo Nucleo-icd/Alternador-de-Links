@@ -5,18 +5,6 @@ const links = [
     title: "Ambulatório Geral"
   },
   {
-    url: "https://app.powerbi.com/groups/0c7fa548-cc81-49df-a0e0-54509e00de10/reports/c217dced-53cc-4b4e-960b-2bdf7d8de437/ReportSection?ctid=3a78b0cd-7c8e-4929-83d5-190a6cc01365&experience=power-bi",
-    title: "Gestão de Leitos"
-  },
-  {
-    url: "https://app.powerbi.com/groups/0c7fa548-cc81-49df-a0e0-54509e00de10/reports/0d45d923-94cc-47d0-9fbd-021085ed7545/5612edbe8215d03e95a0?ctid=3a78b0cd-7c8e-4929-83d5-190a6cc01365&experience=power-bi",
-    title: "Monitoramento de Exames"
-  },
-  {
-    url: "https://app.powerbi.com/groups/71720c3b-80bf-4e5e-9655-a06c86515e14/reports/04ceb068-8f7a-4913-a5fa-cf6e4dd6a411/ReportSection?ctid=3a78b0cd-7c8e-4929-83d5-190a6cc01365&experience=power-bi",
-    title: "Pronto Socorro Tempo Real"
-  },
-  {
     url: "https://app.powerbi.com/groups/7c44cc56-7568-44f1-a915-96913d67f723/reports/80f3097c-51ff-4d53-a576-09212837de19/2de2d4e7076b0a54c5a4?ctid=3a78b0cd-7c8e-4929-83d5-190a6cc01365&experience=power-bi",
     title: "Fila de Espera"
   },
