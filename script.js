@@ -5,10 +5,6 @@ const links = [
     title: "Ambulatório Geral"
   },
   {
-    url: "https://app.powerbi.com/groups/7c44cc56-7568-44f1-a915-96913d67f723/reports/80f3097c-51ff-4d53-a576-09212837de19/2de2d4e7076b0a54c5a4?ctid=3a78b0cd-7c8e-4929-83d5-190a6cc01365&experience=power-bi",
-    title: "Fila de Espera"
-  },
-  {
     url: "https://app.powerbi.com/view?r=eyJrIjoiYTViNGJiOTItNGUyYy00Y2EyLTkwZDgtZTZhMWI5NzUxODIzIiwidCI6IjNhNzhiMGNkLTdjOGUtNDkyOS04M2Q1LTE5MGE2Y2MwMTM2NSJ9",
     title: "Painel Pronto Socorro"
   },
