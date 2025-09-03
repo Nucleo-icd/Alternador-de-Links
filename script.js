@@ -20,10 +20,7 @@ const links = [
     url: "https://app.powerbi.com/view?r=eyJrIjoiMjVhODBmYWMtMmQ3ZS00MjE5LWE0MzYtNWM0NzYyNDgwMGIxIiwidCI6IjNhNzhiMGNkLTdjOGUtNDkyOS04M2Q1LTE5MGE2Y2MwMTM2NSJ9",
     title: "Médicos por Serviço"
   },
-  {
-    url: "https://app.powerbi.com/view?r=eyJrIjoiYThlZGZmZTYtM2MyYS00N2EwLWJkMzQtMzFjODJkMWYwNWE2IiwidCI6IjNhNzhiMGNkLTdjOGUtNDkyOS04M2Q1LTE5MGE2Y2MwMTM2NSJ9",
-    title: "Portal Acolhimento"
-  }
+  
 ];
 
 // Variáveis de controle
@@ -115,3 +112,4 @@ pauseBtn.addEventListener('click', togglePause);
 // Inicialização
 showCurrentLink();
 startRotation();
+
